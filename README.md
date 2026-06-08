@@ -149,7 +149,3 @@ A solução se conecta diretamente aos pontos levantados no kick-off:
 > problema em Marte."_ — kick-off da GS.
 
 ---
-
-## 👤 Autor
-
-Projeto desenvolvido para a **GS — Dynamic Programming**, FIAP, 2026.
