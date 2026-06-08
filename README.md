@@ -1,3 +1,10 @@
+#Integrantes 
+Murillo Akira rm:561886
+Igor Dominiski rm:562055
+Rodrigo Abubakir rm:561479
+
+
+
 # ARTEMIS-LOG — Roteamento Inteligente de Suprimentos em Base Lunar
 
  **GS — Dynamic Programming** | FIAP
